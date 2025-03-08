@@ -1,0 +1,15 @@
+1741434370: mosquitto version 2.0.21 starting
+1741434370: Config loaded from /mosquitto/config/mosquitto.conf.
+1741434370: Opening ipv4 listen socket on port 1883.
+1741434370: Opening ipv6 listen socket on port 1883.
+1741434370: mosquitto version 2.0.21 running
+1741434370: New connection from 172.18.0.3:50385 on port 1883.
+1741434370: New client connected from 172.18.0.3:50385 as auto-BBA970B4-B923-AB13-FD10-832628F2068E (p2, c1, k60).
+1741434422: New connection from 172.18.0.1:60806 on port 1883.
+1741434422: New client connected from 172.18.0.1:60806 as mqtt-explorer-d397811b (p2, c1, k60).
+1741434431: Client mqtt-explorer-d397811b disconnected.
+1741434438: Client auto-BBA970B4-B923-AB13-FD10-832628F2068E closed its connection.
+1741434438: mosquitto version 2.0.21 terminating
+1741434438: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1741434438: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1741434438: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
