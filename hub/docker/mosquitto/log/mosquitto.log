@@ -1,0 +1,18 @@
+1743430512: mosquitto version 2.0.21 starting
+1743430512: Config loaded from /mosquitto/config/mosquitto.conf.
+1743430512: Opening ipv4 listen socket on port 1883.
+1743430512: Opening ipv6 listen socket on port 1883.
+1743430512: mosquitto version 2.0.21 running
+1743430600: mosquitto version 2.0.21 terminating
+1743430600: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743430600: Error saving in-memory database, unable to remove /mosquitto/data//mosquitto.db.new.
+1743430600: Error: Permission denied.
+1743430617: mosquitto version 2.0.21 starting
+1743430617: Config loaded from /mosquitto/config/mosquitto.conf.
+1743430617: Opening ipv4 listen socket on port 1883.
+1743430617: Opening ipv6 listen socket on port 1883.
+1743430617: mosquitto version 2.0.21 running
+1743430747: mosquitto version 2.0.21 terminating
+1743430747: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1743430747: Error saving in-memory database, unable to remove /mosquitto/data//mosquitto.db.new.
+1743430747: Error: Permission denied.
