@@ -142,14 +142,10 @@ async def create_processed_agent_data(data: List[ProcessedAgentData]):
         created_items = []
         for item in data:
             db_item = {
-                "road_state": item.road_state,
-                "user_id": item.agent_data.user_id,
-                "x": item.agent_data.accelerometer.x,
-                "y": item.agent_data.accelerometer.y,
-                "z": item.agent_data.accelerometer.z,
-                "latitude": item.agent_data.gps.latitude,
-                "longitude": item.agent_data.gps.longitude,
-                "timestamp": item.agent_data.timestamp
+                "road_state": item.road_state,"user_id": item.agent_data.user_id,
+                "x": item.agent_data.accelerometer.x, "y": item.agent_data.accelerometer.y,
+                "z": item.agent_data.accelerometer.z, "latitude": item.agent_data.gps.latitude,
+                "longitude": item.agent_data.gps.longitude, "timestamp": item.agent_data.timestamp
             }
             
             query = processed_agent_data.insert().values(**db_item)
@@ -164,34 +160,24 @@ async def create_processed_agent_data(data: List[ProcessedAgentData]):
             
             if item.agent_data.user_id in subscriptions:
                 await send_data_to_subscribers(
-                    item.agent_data.user_id,
-                    {
-                        "type": "new_data",
-                        "data": created_item
-                    }
+                    item.agent_data.user_id, {"type": "new_data", "data": created_item}
                 )
         
-        return {
-            "status": "success",
-            "message": f"Успішно створено {len(created_items)} елементів",
+        return {"status": "success","message": f"Успішно створено {len(created_items)} елементів",
             "data": created_items
         }
-    
     except Exception as e:
         db.rollback()
         raise HTTPException(
             status_code=500,
             detail=f"Під час створення даних сталася помилка: {str(e)}"
         )
-    
     finally:
         db.close()
 
 
 @app.get(
-    "/processed_agent_data/{processed_agent_data_id}",
-    response_model=ProcessedAgentDataInDB,
-)
+    "/processed_agent_data/{processed_agent_data_id}",response_model=ProcessedAgentDataInDB,)
 def read_processed_agent_data(processed_agent_data_id: int):
     try:
         db = SessionLocal()
@@ -201,13 +187,8 @@ def read_processed_agent_data(processed_agent_data_id: int):
         result = db.execute(query).first()
         
         if result is None:
-            raise HTTPException(
-                status_code=404,
-                detail=f"Дані з ID {processed_agent_data_id} не знайдено"
-            )
-            
+            raise HTTPException(status_code=404, detail=f"Дані з ID {processed_agent_data_id} не знайдено") 
         return result
-    
     except Exception as e:
         raise HTTPException(
             status_code=500,
@@ -226,10 +207,7 @@ def list_processed_agent_data():
         return results
     
     except Exception as e:
-        raise HTTPException(
-            status_code=500,
-            detail=f"Помилка при отриманні списку даних: {str(e)}"
-        )
+        raise HTTPException(status_code=500,detail=f"Помилка при отриманні списку даних: {str(e)}")
     finally:
         db.close()
 
@@ -240,37 +218,24 @@ def list_processed_agent_data():
 )
 def update_processed_agent_data(processed_agent_data_id: int, data: ProcessedAgentData):
     try:
-        db = SessionLocal()
-        
+        db = SessionLocal() 
         check_query = select(processed_agent_data).where(
             processed_agent_data.c.id == processed_agent_data_id
         )
         existing_record = db.execute(check_query).first()
         
         if existing_record is None:
-            raise HTTPException(
-                status_code=404,
-                detail=f"Дані з ID {processed_agent_data_id} не знайдено"
-            )
-        
+            raise HTTPException(status_code=404,detail=f"Дані з ID {processed_agent_data_id} не знайдено")
         update_data = {
-            "road_state": data.road_state,
-            "user_id": data.agent_data.user_id,
-            "x": data.agent_data.accelerometer.x,
-            "y": data.agent_data.accelerometer.y,
-            "z": data.agent_data.accelerometer.z,
-            "latitude": data.agent_data.gps.latitude,
-            "longitude": data.agent_data.gps.longitude,
-            "timestamp": data.agent_data.timestamp
+            "road_state": data.road_state,"user_id": data.agent_data.user_id,
+            "x": data.agent_data.accelerometer.x,"y": data.agent_data.accelerometer.y,
+            "z": data.agent_data.accelerometer.z, "latitude": data.agent_data.gps.latitude,
+            "longitude": data.agent_data.gps.longitude,"timestamp": data.agent_data.timestamp
         }
         
-        query = processed_agent_data.update().where(
-            processed_agent_data.c.id == processed_agent_data_id
-        ).values(**update_data)
-        
+        query = processed_agent_data.update().where(processed_agent_data.c.id == processed_agent_data_id).values(**update_data)  
         db.execute(query)
         db.commit()
-        
         updated_record = db.execute(check_query).first()
         return updated_record
     
@@ -285,27 +250,18 @@ def update_processed_agent_data(processed_agent_data_id: int, data: ProcessedAge
 
 
 @app.delete(
-    "/processed_agent_data/{processed_agent_data_id}",
-    response_model=ProcessedAgentDataInDB,
-)
+    "/processed_agent_data/{processed_agent_data_id}",response_model=ProcessedAgentDataInDB,)
 def delete_processed_agent_data(processed_agent_data_id: int):
     try:
         db = SessionLocal()
         
-        check_query = select(processed_agent_data).where(
-            processed_agent_data.c.id == processed_agent_data_id
-        )
+        check_query = select(processed_agent_data).where(processed_agent_data.c.id == processed_agent_data_id)
         record_to_delete = db.execute(check_query).first()
         
         if record_to_delete is None:
-            raise HTTPException(
-                status_code=404,
-                detail=f"Дані з ID {processed_agent_data_id} не знайдено"
-            )
+            raise HTTPException(status_code=404,detail=f"Дані з ID {processed_agent_data_id} не знайдено")
         
-        query = processed_agent_data.delete().where(
-            processed_agent_data.c.id == processed_agent_data_id
-        )
+        query = processed_agent_data.delete().where(processed_agent_data.c.id == processed_agent_data_id)
         db.execute(query)
         db.commit()
         
@@ -313,10 +269,7 @@ def delete_processed_agent_data(processed_agent_data_id: int):
     
     except Exception as e:
         db.rollback()
-        raise HTTPException(
-            status_code=500,
-            detail=f"Помилка при видаленні даних: {str(e)}"
-        )
+        raise HTTPException(status_code=500,detail=f"Помилка при видаленні даних: {str(e)}")
     finally:
         db.close()
 

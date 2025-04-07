@@ -1,3 +1,4 @@
+
 name: "road_vision__hub"
 services:
   mqtt:
@@ -36,8 +37,8 @@ services:
     image: dpage/pgadmin4
     restart: always
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@admin.com
-      PGADMIN_DEFAULT_PASSWORD: root
+      PGADMIN_DEFAULT_EMAIL: a
+      PGADMIN_DEFAULT_PASSWORD: r
     volumes:
       - pgadmin-data:/var/lib/pgadmin
     ports:
@@ -88,7 +89,7 @@ services:
       REDIS_PORT: 6379
       MQTT_BROKER_HOST: "mqtt"
       MQTT_BROKER_PORT: 1883
-      MQTT_TOPIC: "processed_data_topic"
+      MQTT_TOPIC: "processed_agent_data"
       BATCH_SIZE: 1
     ports:
       - "9000:8000"

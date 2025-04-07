@@ -1,5 +1,7 @@
 import logging
 from typing import List
+import json
+from datetime import datetime
 
 from fastapi import FastAPI
 from redis import Redis
@@ -35,6 +37,12 @@ store_adapter = StoreApiAdapter(api_base_url=STORE_API_BASE_URL)
 # FastAPI
 app = FastAPI()
 
+# Додайте кастомний JSON-енкодер
+class DateTimeEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, datetime):
+            return obj.isoformat()
+        return super().default(obj)
 
 @app.post("/processed_agent_data/")
 async def save_processed_agent_data(processed_agent_data: ProcessedAgentData):
@@ -57,8 +65,9 @@ client = mqtt.Client()
 
 def on_connect(client, userdata, flags, rc):
     if rc == 0:
-        logging.info("Connected to MQTT broker")
+        logging.info(f"Connected to MQTT broker {MQTT_BROKER_HOST}:{MQTT_BROKER_PORT}")
         client.subscribe(MQTT_TOPIC)
+        logging.info(f"Subscribed to topic: {MQTT_TOPIC}")
     else:
         logging.info(f"Failed to connect to MQTT broker with code: {rc}")
 
@@ -70,16 +79,18 @@ def on_message(client, userdata, msg):
         processed_agent_data = ProcessedAgentData.model_validate_json(
             payload, strict=True
         )
-
         redis_client.lpush(
             "processed_agent_data", processed_agent_data.model_dump_json()
         )
+       
         processed_agent_data_batch: List[ProcessedAgentData] = []
         if redis_client.llen("processed_agent_data") >= BATCH_SIZE:
             for _ in range(BATCH_SIZE):
                 processed_agent_data = ProcessedAgentData.model_validate_json(
                     redis_client.lpop("processed_agent_data")
                 )
+                logging.info(f"Processed agent data: {processed_agent_data}")
+                
                 processed_agent_data_batch.append(processed_agent_data)
         store_adapter.save_data(processed_agent_data_batch=processed_agent_data_batch)
         return {"status": "ok"}
