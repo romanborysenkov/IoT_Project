@@ -1,0 +1,1033 @@
+1744030635: mosquitto version 2.0.21 starting
+1744030635: Config loaded from /mosquitto/config/mosquitto.conf.
+1744030635: Opening ipv4 listen socket on port 1883.
+1744030635: Opening ipv6 listen socket on port 1883.
+1744030635: mosquitto version 2.0.21 running
+1744030659: mosquitto version 2.0.21 terminating
+1744030659: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744030659: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744030659: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744030677: mosquitto version 2.0.21 starting
+1744030677: Config loaded from /mosquitto/config/mosquitto.conf.
+1744030677: Opening ipv4 listen socket on port 1883.
+1744030677: Opening ipv6 listen socket on port 1883.
+1744030677: mosquitto version 2.0.21 running
+1744030687: mosquitto version 2.0.21 terminating
+1744030687: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744030687: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744030687: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744030720: mosquitto version 2.0.21 starting
+1744030720: Config loaded from /mosquitto/config/mosquitto.conf.
+1744030720: Opening ipv4 listen socket on port 1883.
+1744030720: Opening ipv6 listen socket on port 1883.
+1744030720: mosquitto version 2.0.21 running
+1744030724: mosquitto version 2.0.21 terminating
+1744030724: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744030724: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744030724: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744030787: mosquitto version 2.0.21 starting
+1744030787: Config loaded from /mosquitto/config/mosquitto.conf.
+1744030787: Opening ipv4 listen socket on port 1883.
+1744030787: Opening ipv6 listen socket on port 1883.
+1744030787: mosquitto version 2.0.21 running
+1744030799: mosquitto version 2.0.21 terminating
+1744030799: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744030799: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744030799: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744030951: mosquitto version 2.0.21 starting
+1744030951: Config loaded from /mosquitto/config/mosquitto.conf.
+1744030951: Opening ipv4 listen socket on port 1883.
+1744030951: Opening ipv6 listen socket on port 1883.
+1744030951: mosquitto version 2.0.21 running
+1744030967: mosquitto version 2.0.21 terminating
+1744030967: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744030967: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744030967: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744031157: mosquitto version 2.0.21 starting
+1744031157: Config loaded from /mosquitto/config/mosquitto.conf.
+1744031157: Opening ipv4 listen socket on port 1883.
+1744031157: Opening ipv6 listen socket on port 1883.
+1744031157: mosquitto version 2.0.21 running
+1744031161: mosquitto version 2.0.21 terminating
+1744031161: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744031161: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744031161: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744031205: mosquitto version 2.0.21 starting
+1744031205: Config loaded from /mosquitto/config/mosquitto.conf.
+1744031205: Opening ipv4 listen socket on port 1883.
+1744031205: Opening ipv6 listen socket on port 1883.
+1744031205: mosquitto version 2.0.21 running
+1744031205: New connection from 172.22.0.3:46281 on port 1883.
+1744031205: New client connected from 172.22.0.3:46281 as auto-4FEFCE38-6689-B592-F576-B2E5E5873879 (p2, c1, k60).
+1744031205: New connection from 172.22.0.3:42649 on port 1883.
+1744031205: New client connected from 172.22.0.3:42649 as auto-63765202-9EA2-6D4E-D2F3-82A733850E53 (p2, c1, k60).
+1744031228: Client auto-63765202-9EA2-6D4E-D2F3-82A733850E53 closed its connection.
+1744031228: Client auto-4FEFCE38-6689-B592-F576-B2E5E5873879 closed its connection.
+1744031229: mosquitto version 2.0.21 terminating
+1744031229: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744031229: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744031229: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744031241: mosquitto version 2.0.21 starting
+1744031241: Config loaded from /mosquitto/config/mosquitto.conf.
+1744031241: Opening ipv4 listen socket on port 1883.
+1744031241: Opening ipv6 listen socket on port 1883.
+1744031241: mosquitto version 2.0.21 running
+1744031242: New connection from 172.22.0.3:36739 on port 1883.
+1744031242: New client connected from 172.22.0.3:36739 as auto-BC868626-C35B-42EE-3164-ACCB56367AA4 (p2, c1, k60).
+1744031242: New connection from 172.22.0.3:55777 on port 1883.
+1744031242: New client connected from 172.22.0.3:55777 as auto-E5E66FD3-5807-341D-9906-289C111AAED6 (p2, c1, k60).
+1744031275: New connection from 172.22.0.1:55890 on port 1883.
+1744031275: New client connected from 172.22.0.1:55890 as mqtt-explorer-d397811b (p2, c1, k60).
+1744032557: Client auto-BC868626-C35B-42EE-3164-ACCB56367AA4 has exceeded timeout, disconnecting.
+1744032557: Client auto-E5E66FD3-5807-341D-9906-289C111AAED6 has exceeded timeout, disconnecting.
+1744032557: Client mqtt-explorer-d397811b has exceeded timeout, disconnecting.
+1744032558: New connection from 172.22.0.3:59787 on port 1883.
+1744032558: New client connected from 172.22.0.3:59787 as auto-493AF458-80DC-4C41-F655-3072BA81C7C7 (p2, c1, k60).
+1744032558: New connection from 172.22.0.3:60879 on port 1883.
+1744032558: New client connected from 172.22.0.3:60879 as auto-59C4844E-4B2C-6543-547F-56837EB33BE9 (p2, c1, k60).
+1744032558: New connection from 172.22.0.1:55344 on port 1883.
+1744032558: New client connected from 172.22.0.1:55344 as mqtt-explorer-d397811b (p2, c1, k60).
+1744032575: Client auto-59C4844E-4B2C-6543-547F-56837EB33BE9 closed its connection.
+1744032575: Client auto-493AF458-80DC-4C41-F655-3072BA81C7C7 closed its connection.
+1744032575: mosquitto version 2.0.21 terminating
+1744032575: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744032575: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744032575: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744092874: mosquitto version 2.0.21 starting
+1744092874: Config loaded from /mosquitto/config/mosquitto.conf.
+1744092874: Opening ipv4 listen socket on port 1883.
+1744092874: Opening ipv6 listen socket on port 1883.
+1744092874: mosquitto version 2.0.21 running
+1744092874: New connection from 172.22.0.3:60671 on port 1883.
+1744092874: New client connected from 172.22.0.3:60671 as auto-4CDB4274-AE00-65FB-1DCE-F7AA55759646 (p2, c1, k60).
+1744092874: New connection from 172.22.0.3:49263 on port 1883.
+1744092874: New client connected from 172.22.0.3:49263 as auto-F4C4F48B-872C-776A-1A1D-3DE422BC2AEB (p2, c1, k60).
+1744092876: New connection from 172.22.0.1:56826 on port 1883.
+1744092876: New client connected from 172.22.0.1:56826 as mqtt-explorer-d397811b (p2, c1, k60).
+1744093556: Client auto-F4C4F48B-872C-776A-1A1D-3DE422BC2AEB has exceeded timeout, disconnecting.
+1744093556: Client auto-4CDB4274-AE00-65FB-1DCE-F7AA55759646 has exceeded timeout, disconnecting.
+1744093556: Client mqtt-explorer-d397811b has exceeded timeout, disconnecting.
+1744093556: New connection from 172.22.0.1:46778 on port 1883.
+1744093556: New client connected from 172.22.0.1:46778 as mqtt-explorer-d397811b (p2, c1, k60).
+1744093556: New connection from 172.22.0.3:53651 on port 1883.
+1744093556: New connection from 172.22.0.3:37789 on port 1883.
+1744093556: New client connected from 172.22.0.3:53651 as auto-4EF81A84-F1DA-9BBB-78EB-94D5C19CB7C0 (p2, c1, k60).
+1744093556: New client connected from 172.22.0.3:37789 as auto-8930B7AC-9DD6-5F13-C1CC-6077506C1E37 (p2, c1, k60).
+1744094101: Client mqtt-explorer-d397811b has exceeded timeout, disconnecting.
+1744094101: Client auto-4EF81A84-F1DA-9BBB-78EB-94D5C19CB7C0 has exceeded timeout, disconnecting.
+1744094101: Client auto-8930B7AC-9DD6-5F13-C1CC-6077506C1E37 has exceeded timeout, disconnecting.
+1744094102: New connection from 172.22.0.3:38237 on port 1883.
+1744094102: New connection from 172.22.0.1:56540 on port 1883.
+1744094102: New client connected from 172.22.0.3:38237 as auto-D9336974-19E1-4A1B-98BA-CCC4BFD57033 (p2, c1, k60).
+1744094102: New client connected from 172.22.0.1:56540 as mqtt-explorer-d397811b (p2, c1, k60).
+1744094102: New connection from 172.22.0.3:38779 on port 1883.
+1744094102: New client connected from 172.22.0.3:38779 as auto-D6CD55F3-7A98-14A3-12BD-AC9B3B935102 (p2, c1, k60).
+1744094301: Client mqtt-explorer-d397811b has exceeded timeout, disconnecting.
+1744094301: Client auto-D6CD55F3-7A98-14A3-12BD-AC9B3B935102 has exceeded timeout, disconnecting.
+1744094301: Client auto-D9336974-19E1-4A1B-98BA-CCC4BFD57033 has exceeded timeout, disconnecting.
+1744094302: New connection from 172.22.0.1:46612 on port 1883.
+1744094302: New client connected from 172.22.0.1:46612 as mqtt-explorer-d397811b (p2, c1, k60).
+1744094302: New connection from 172.22.0.3:50425 on port 1883.
+1744094302: New connection from 172.22.0.3:47639 on port 1883.
+1744094302: New client connected from 172.22.0.3:50425 as auto-77873EED-E433-1864-2B23-9C7482C4FDE1 (p2, c1, k60).
+1744094302: New client connected from 172.22.0.3:47639 as auto-36F275D5-FBBA-396B-1246-667F11102C14 (p2, c1, k60).
+1744094675: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744094675: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744094675: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744094682: Client auto-36F275D5-FBBA-396B-1246-667F11102C14 closed its connection.
+1744094682: Client auto-77873EED-E433-1864-2B23-9C7482C4FDE1 closed its connection.
+1744094683: mosquitto version 2.0.21 terminating
+1744094683: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744094683: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744094683: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744094725: mosquitto version 2.0.21 starting
+1744094725: Config loaded from /mosquitto/config/mosquitto.conf.
+1744094725: Opening ipv4 listen socket on port 1883.
+1744094725: Opening ipv6 listen socket on port 1883.
+1744094725: mosquitto version 2.0.21 running
+1744094725: New connection from 172.22.0.3:50997 on port 1883.
+1744094725: New client connected from 172.22.0.3:50997 as auto-1FDA6C0A-E27D-E4E2-6A69-F2E9D3E74F31 (p2, c1, k60).
+1744094725: New connection from 172.22.0.3:37773 on port 1883.
+1744094725: New client connected from 172.22.0.3:37773 as auto-D33C528D-76F7-792E-559F-D39C5E7ECBD9 (p2, c1, k60).
+1744094727: New connection from 172.22.0.1:51728 on port 1883.
+1744094727: New client connected from 172.22.0.1:51728 as mqtt-explorer-d397811b (p2, c1, k60).
+1744095373: Client mqtt-explorer-d397811b has exceeded timeout, disconnecting.
+1744095373: Client auto-D33C528D-76F7-792E-559F-D39C5E7ECBD9 has exceeded timeout, disconnecting.
+1744095373: Client auto-1FDA6C0A-E27D-E4E2-6A69-F2E9D3E74F31 has exceeded timeout, disconnecting.
+1744095373: New connection from 172.22.0.3:37915 on port 1883.
+1744095373: New connection from 172.22.0.3:42301 on port 1883.
+1744095373: New client connected from 172.22.0.3:37915 as auto-5DC4626D-B8C8-CDAD-1AFA-2A5C3BB0BF2F (p2, c1, k60).
+1744095373: New client connected from 172.22.0.3:42301 as auto-225746A8-ADBE-63C7-CC06-3C34D957320D (p2, c1, k60).
+1744095373: New connection from 172.22.0.1:60860 on port 1883.
+1744095373: New client connected from 172.22.0.1:60860 as mqtt-explorer-d397811b (p2, c1, k60).
+1744095422: Client auto-225746A8-ADBE-63C7-CC06-3C34D957320D closed its connection.
+1744095422: Client auto-5DC4626D-B8C8-CDAD-1AFA-2A5C3BB0BF2F closed its connection.
+1744095422: mosquitto version 2.0.21 terminating
+1744095422: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744095422: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744095422: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744095431: mosquitto version 2.0.21 starting
+1744095431: Config loaded from /mosquitto/config/mosquitto.conf.
+1744095431: Opening ipv4 listen socket on port 1883.
+1744095431: Opening ipv6 listen socket on port 1883.
+1744095431: mosquitto version 2.0.21 running
+1744095432: New connection from 172.22.0.3:37499 on port 1883.
+1744095432: New client connected from 172.22.0.3:37499 as auto-567B6140-B05E-3BC6-E37C-E9C72A02BE20 (p2, c1, k60).
+1744095432: New connection from 172.22.0.3:43657 on port 1883.
+1744095432: New client connected from 172.22.0.3:43657 as auto-5C151918-A7CF-1B98-9E1F-1F44F26C26F2 (p2, c1, k60).
+1744095434: New connection from 172.22.0.1:33230 on port 1883.
+1744095434: New client connected from 172.22.0.1:33230 as mqtt-explorer-d397811b (p2, c1, k60).
+1744095653: Client auto-5C151918-A7CF-1B98-9E1F-1F44F26C26F2 closed its connection.
+1744095653: Client auto-567B6140-B05E-3BC6-E37C-E9C72A02BE20 closed its connection.
+1744095653: mosquitto version 2.0.21 terminating
+1744095653: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744095653: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744095653: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744100867: mosquitto version 2.0.21 starting
+1744100867: Config loaded from /mosquitto/config/mosquitto.conf.
+1744100867: Opening ipv4 listen socket on port 1883.
+1744100867: Opening ipv6 listen socket on port 1883.
+1744100867: mosquitto version 2.0.21 running
+1744100870: New connection from 172.22.0.1:43382 on port 1883.
+1744100870: New client connected from 172.22.0.1:43382 as mqtt-explorer-d397811b (p2, c1, k60).
+1744100908: New connection from 172.22.0.3:55033 on port 1883.
+1744100908: New client connected from 172.22.0.3:55033 as auto-90E4D60C-E35F-A79B-067E-775B73CF1603 (p2, c1, k60).
+1744100909: New connection from 172.22.0.3:59023 on port 1883.
+1744100909: New client connected from 172.22.0.3:59023 as auto-5C79B3D9-5001-2AF2-081B-4BADF7DA8CC4 (p2, c1, k60).
+1744100911: New connection from 172.22.0.4:40175 on port 1883.
+1744100911: New client connected from 172.22.0.4:40175 as auto-C763A8FC-A765-CD17-8354-BF98790F5BAB (p2, c1, k60).
+1744101011: Client auto-C763A8FC-A765-CD17-8354-BF98790F5BAB closed its connection.
+1744101021: Client auto-5C79B3D9-5001-2AF2-081B-4BADF7DA8CC4 closed its connection.
+1744101021: Client auto-90E4D60C-E35F-A79B-067E-775B73CF1603 closed its connection.
+1744101021: mosquitto version 2.0.21 terminating
+1744101021: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744101021: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744101021: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744101028: mosquitto version 2.0.21 starting
+1744101028: Config loaded from /mosquitto/config/mosquitto.conf.
+1744101028: Opening ipv4 listen socket on port 1883.
+1744101028: Opening ipv6 listen socket on port 1883.
+1744101028: mosquitto version 2.0.21 running
+1744101029: New connection from 172.22.0.3:46327 on port 1883.
+1744101029: New client connected from 172.22.0.3:46327 as auto-4779C76F-685F-419C-950F-E3FC1E6D9972 (p2, c1, k60).
+1744101029: New connection from 172.22.0.3:36305 on port 1883.
+1744101029: New client connected from 172.22.0.3:36305 as auto-2A628E04-17C2-6B7A-B89A-F91A7AAB15A5 (p2, c1, k60).
+1744101030: New connection from 172.22.0.4:47279 on port 1883.
+1744101030: New client connected from 172.22.0.4:47279 as auto-C7FE7F2B-CC6E-0E52-A25E-5088ED17FAB0 (p2, c1, k60).
+1744101043: mosquitto version 2.0.21 starting
+1744101043: Config loaded from /mosquitto/config/mosquitto.conf.
+1744101043: Opening ipv4 listen socket on port 1883.
+1744101043: Opening ipv6 listen socket on port 1883.
+1744101043: mosquitto version 2.0.21 running
+1744101044: New connection from 172.22.0.3:44551 on port 1883.
+1744101044: New client connected from 172.22.0.3:44551 as auto-735A80FD-6C6D-8D39-3360-321CFD317594 (p2, c1, k60).
+1744101044: New connection from 172.22.0.3:36467 on port 1883.
+1744101044: New client connected from 172.22.0.3:36467 as auto-46EA2AE1-CE4C-521D-E1EF-4E3B5A9AB761 (p2, c1, k60).
+1744101045: New connection from 172.22.0.4:44791 on port 1883.
+1744101045: New client connected from 172.22.0.4:44791 as auto-DC0CF8D4-583F-6822-70BE-340F4BB3E1C4 (p2, c1, k60).
+1744101046: New connection from 172.22.0.1:46074 on port 1883.
+1744101046: New client connected from 172.22.0.1:46074 as mqtt-explorer-d397811b (p2, c1, k60).
+1744101225: Client auto-DC0CF8D4-583F-6822-70BE-340F4BB3E1C4 closed its connection.
+1744101235: Client auto-46EA2AE1-CE4C-521D-E1EF-4E3B5A9AB761 closed its connection.
+1744101235: Client auto-735A80FD-6C6D-8D39-3360-321CFD317594 closed its connection.
+1744101235: mosquitto version 2.0.21 terminating
+1744101235: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744101235: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744101235: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744101314: mosquitto version 2.0.21 starting
+1744101314: Config loaded from /mosquitto/config/mosquitto.conf.
+1744101314: Opening ipv4 listen socket on port 1883.
+1744101314: Opening ipv6 listen socket on port 1883.
+1744101314: mosquitto version 2.0.21 running
+1744101315: New connection from 172.22.0.3:53505 on port 1883.
+1744101315: New client connected from 172.22.0.3:53505 as auto-DFBA1773-ED19-FA4A-152C-2EDF816F7B2D (p2, c1, k60).
+1744101315: New connection from 172.22.0.3:52587 on port 1883.
+1744101315: New client connected from 172.22.0.3:52587 as auto-4E4D7258-5159-8C73-4A63-C8A14970CC85 (p2, c1, k60).
+1744101317: New connection from 172.22.0.1:38554 on port 1883.
+1744101317: New client connected from 172.22.0.1:38554 as mqtt-explorer-d397811b (p2, c1, k60).
+1744101317: New connection from 172.22.0.4:56765 on port 1883.
+1744101317: New client connected from 172.22.0.4:56765 as auto-3A87CD79-2B2E-1B60-DD4A-AA7FB2589A36 (p2, c1, k60).
+1744101924: Client mqtt-explorer-d397811b has exceeded timeout, disconnecting.
+1744101924: Client auto-4E4D7258-5159-8C73-4A63-C8A14970CC85 has exceeded timeout, disconnecting.
+1744101924: Client auto-DFBA1773-ED19-FA4A-152C-2EDF816F7B2D has exceeded timeout, disconnecting.
+1744101924: Client auto-3A87CD79-2B2E-1B60-DD4A-AA7FB2589A36 has exceeded timeout, disconnecting.
+1744101924: New connection from 172.22.0.1:59928 on port 1883.
+1744101924: New client connected from 172.22.0.1:59928 as mqtt-explorer-d397811b (p2, c1, k60).
+1744101924: New connection from 172.22.0.4:46851 on port 1883.
+1744101924: New connection from 172.22.0.3:55433 on port 1883.
+1744101924: New client connected from 172.22.0.4:46851 as auto-D0E49D64-452E-2C8A-6AB4-34996A9D7E82 (p2, c1, k60).
+1744101924: New client connected from 172.22.0.3:55433 as auto-80C574F9-FF2A-D11E-B439-5E3D4DEFDE54 (p2, c1, k60).
+1744101924: New connection from 172.22.0.3:58391 on port 1883.
+1744101924: New client connected from 172.22.0.3:58391 as auto-A80BD3CE-A495-91B8-AB17-EC3ECA71B018 (p2, c1, k60).
+1744102184: Client auto-D0E49D64-452E-2C8A-6AB4-34996A9D7E82 closed its connection.
+1744102193: Client auto-A80BD3CE-A495-91B8-AB17-EC3ECA71B018 closed its connection.
+1744102193: Client auto-80C574F9-FF2A-D11E-B439-5E3D4DEFDE54 closed its connection.
+1744102194: mosquitto version 2.0.21 terminating
+1744102194: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744102194: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744102194: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744102226: mosquitto version 2.0.21 starting
+1744102226: Config loaded from /mosquitto/config/mosquitto.conf.
+1744102226: Opening ipv4 listen socket on port 1883.
+1744102226: Opening ipv6 listen socket on port 1883.
+1744102226: mosquitto version 2.0.21 running
+1744102226: New connection from 172.22.0.3:33629 on port 1883.
+1744102226: New client connected from 172.22.0.3:33629 as auto-F7CCFB22-E999-2142-0E63-A8183EAB026C (p2, c1, k60).
+1744102226: New connection from 172.22.0.3:46473 on port 1883.
+1744102226: New client connected from 172.22.0.3:46473 as auto-C26928BC-87B9-5854-CE8D-3C64F36D8EC6 (p2, c1, k60).
+1744102228: New connection from 172.22.0.4:60235 on port 1883.
+1744102228: New client connected from 172.22.0.4:60235 as auto-27CF9097-F895-675E-DEA4-F4DFFBE28CA9 (p2, c1, k60).
+1744102228: New connection from 172.22.0.1:57208 on port 1883.
+1744102228: New client connected from 172.22.0.1:57208 as mqtt-explorer-d397811b (p2, c1, k60).
+1744102236: Client mqtt-explorer-d397811b disconnected.
+1744102238: New connection from 172.22.0.1:43594 on port 1883.
+1744102238: New client connected from 172.22.0.1:43594 as mqtt-explorer-d397811b (p2, c1, k60).
+1744102289: Client auto-27CF9097-F895-675E-DEA4-F4DFFBE28CA9 closed its connection.
+1744102299: Client auto-C26928BC-87B9-5854-CE8D-3C64F36D8EC6 closed its connection.
+1744102299: Client auto-F7CCFB22-E999-2142-0E63-A8183EAB026C closed its connection.
+1744102299: mosquitto version 2.0.21 terminating
+1744102299: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744102299: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744102299: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744102332: mosquitto version 2.0.21 starting
+1744102332: Config loaded from /mosquitto/config/mosquitto.conf.
+1744102332: Opening ipv4 listen socket on port 1883.
+1744102332: Opening ipv6 listen socket on port 1883.
+1744102332: mosquitto version 2.0.21 running
+1744102332: New connection from 172.22.0.3:55557 on port 1883.
+1744102332: New connection from 172.22.0.3:51643 on port 1883.
+1744102332: New client connected from 172.22.0.3:55557 as auto-374B40F4-CD9A-A79C-EE16-9E3590029C23 (p2, c1, k60).
+1744102332: New client connected from 172.22.0.3:51643 as auto-05929DD1-D313-8E02-EF2A-2B66F2A6F751 (p2, c1, k60).
+1744102333: New connection from 172.22.0.1:48606 on port 1883.
+1744102333: New client connected from 172.22.0.1:48606 as mqtt-explorer-d397811b (p2, c1, k60).
+1744102333: New connection from 172.22.0.4:51489 on port 1883.
+1744102333: New client connected from 172.22.0.4:51489 as auto-AC575F29-B366-B1D3-9A60-69479A047BEF (p2, c1, k60).
+1744102618: Client auto-AC575F29-B366-B1D3-9A60-69479A047BEF closed its connection.
+1744102627: Client auto-05929DD1-D313-8E02-EF2A-2B66F2A6F751 closed its connection.
+1744102627: Client auto-374B40F4-CD9A-A79C-EE16-9E3590029C23 closed its connection.
+1744102628: mosquitto version 2.0.21 terminating
+1744102628: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744102628: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744102628: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744102901: mosquitto version 2.0.21 starting
+1744102901: Config loaded from /mosquitto/config/mosquitto.conf.
+1744102901: Opening ipv4 listen socket on port 1883.
+1744102901: Opening ipv6 listen socket on port 1883.
+1744102901: mosquitto version 2.0.21 running
+1744102901: New connection from 172.22.0.3:55197 on port 1883.
+1744102901: New client connected from 172.22.0.3:55197 as auto-C2088228-8F89-1598-E6E6-D7233A5832A9 (p2, c1, k60).
+1744102901: New connection from 172.22.0.3:50273 on port 1883.
+1744102901: New client connected from 172.22.0.3:50273 as auto-E31CE136-C6F5-C7AA-032C-7C571343D8AD (p2, c1, k60).
+1744102902: New connection from 172.22.0.4:45073 on port 1883.
+1744102902: New client connected from 172.22.0.4:45073 as auto-82AD5552-1FC9-4105-806B-9426B38D50DF (p2, c1, k60).
+1744102903: New connection from 172.22.0.1:35772 on port 1883.
+1744102903: New client connected from 172.22.0.1:35772 as mqtt-explorer-d397811b (p2, c1, k60).
+1744102957: Client mqtt-explorer-d397811b disconnected.
+1744102962: New connection from 172.22.0.1:50654 on port 1883.
+1744102962: New client connected from 172.22.0.1:50654 as mqtt-explorer-d397811b (p2, c1, k60).
+1744103050: Client auto-82AD5552-1FC9-4105-806B-9426B38D50DF closed its connection.
+1744103059: Client auto-E31CE136-C6F5-C7AA-032C-7C571343D8AD closed its connection.
+1744103059: Client auto-C2088228-8F89-1598-E6E6-D7233A5832A9 closed its connection.
+1744103059: mosquitto version 2.0.21 terminating
+1744103059: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744103059: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744103059: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744103063: mosquitto version 2.0.21 starting
+1744103063: Config loaded from /mosquitto/config/mosquitto.conf.
+1744103063: Opening ipv4 listen socket on port 1883.
+1744103063: Opening ipv6 listen socket on port 1883.
+1744103063: mosquitto version 2.0.21 running
+1744103064: New connection from 172.22.0.3:57553 on port 1883.
+1744103064: New client connected from 172.22.0.3:57553 as auto-5E141FF0-2D11-ED70-80B1-43A781CE474B (p2, c1, k60).
+1744103064: New connection from 172.22.0.3:39285 on port 1883.
+1744103064: New client connected from 172.22.0.3:39285 as auto-020636B4-6A95-563C-9485-6D1CF013FCE1 (p2, c1, k60).
+1744103065: New connection from 172.22.0.4:37563 on port 1883.
+1744103065: New client connected from 172.22.0.4:37563 as auto-9E88E1C0-8363-23E5-7C16-067B1E5056F0 (p2, c1, k60).
+1744103066: New connection from 172.22.0.1:35458 on port 1883.
+1744103066: New client connected from 172.22.0.1:35458 as mqtt-explorer-d397811b (p2, c1, k60).
+1744103161: Client auto-9E88E1C0-8363-23E5-7C16-067B1E5056F0 closed its connection.
+1744103170: Client auto-020636B4-6A95-563C-9485-6D1CF013FCE1 closed its connection.
+1744103170: Client auto-5E141FF0-2D11-ED70-80B1-43A781CE474B closed its connection.
+1744103171: mosquitto version 2.0.21 terminating
+1744103171: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744103171: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744103171: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744103208: mosquitto version 2.0.21 starting
+1744103208: Config loaded from /mosquitto/config/mosquitto.conf.
+1744103208: Opening ipv4 listen socket on port 1883.
+1744103208: Opening ipv6 listen socket on port 1883.
+1744103208: mosquitto version 2.0.21 running
+1744103208: New connection from 172.22.0.3:41859 on port 1883.
+1744103208: New client connected from 172.22.0.3:41859 as auto-4DDF3353-062A-453A-A80F-D0D6DE6CB18F (p2, c1, k60).
+1744103208: New connection from 172.22.0.3:53801 on port 1883.
+1744103208: New client connected from 172.22.0.3:53801 as auto-7926CB5A-CFFC-06FE-189F-5170BEBACE38 (p2, c1, k60).
+1744103209: New connection from 172.22.0.1:58004 on port 1883.
+1744103209: New client connected from 172.22.0.1:58004 as mqtt-explorer-d397811b (p2, c1, k60).
+1744103209: New connection from 172.22.0.4:48791 on port 1883.
+1744103209: New client connected from 172.22.0.4:48791 as auto-E6ABF903-EC09-5CFF-216A-A62E8D3203AF (p2, c1, k60).
+1744103495: Client auto-E6ABF903-EC09-5CFF-216A-A62E8D3203AF closed its connection.
+1744103504: Client auto-7926CB5A-CFFC-06FE-189F-5170BEBACE38 closed its connection.
+1744103504: Client auto-4DDF3353-062A-453A-A80F-D0D6DE6CB18F closed its connection.
+1744103505: mosquitto version 2.0.21 terminating
+1744103505: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744103505: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744103505: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744103513: mosquitto version 2.0.21 starting
+1744103513: Config loaded from /mosquitto/config/mosquitto.conf.
+1744103513: Opening ipv4 listen socket on port 1883.
+1744103513: Opening ipv6 listen socket on port 1883.
+1744103513: mosquitto version 2.0.21 running
+1744103515: New connection from 172.22.0.1:37974 on port 1883.
+1744103515: New client connected from 172.22.0.1:37974 as mqtt-explorer-d397811b (p2, c1, k60).
+1744103584: New connection from 172.22.0.3:33887 on port 1883.
+1744103584: New connection from 172.22.0.3:59635 on port 1883.
+1744103584: New client connected from 172.22.0.3:33887 as auto-72F5FD8D-616C-E4DD-FE95-4C1235006200 (p2, c1, k60).
+1744103584: New client connected from 172.22.0.3:59635 as auto-BCD85AEA-5DAE-6398-C6DB-48FCED5D217B (p2, c1, k60).
+1744103585: New connection from 172.22.0.4:54481 on port 1883.
+1744103585: New client connected from 172.22.0.4:54481 as auto-60C0757D-2C7C-FD20-6E84-61963555EEF5 (p2, c1, k60).
+1744103755: Client auto-60C0757D-2C7C-FD20-6E84-61963555EEF5 closed its connection.
+1744103765: Client auto-BCD85AEA-5DAE-6398-C6DB-48FCED5D217B closed its connection.
+1744103765: Client auto-72F5FD8D-616C-E4DD-FE95-4C1235006200 closed its connection.
+1744103765: mosquitto version 2.0.21 terminating
+1744103765: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744103765: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744103765: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744104248: mosquitto version 2.0.21 starting
+1744104248: Config loaded from /mosquitto/config/mosquitto.conf.
+1744104248: Opening ipv4 listen socket on port 1883.
+1744104248: Opening ipv6 listen socket on port 1883.
+1744104248: mosquitto version 2.0.21 running
+1744104249: New connection from 172.22.0.3:48477 on port 1883.
+1744104249: New client connected from 172.22.0.3:48477 as auto-8DC187B8-E52C-B1FE-0E7D-E463643BEAC8 (p2, c1, k60).
+1744104249: New connection from 172.22.0.3:57219 on port 1883.
+1744104249: New client connected from 172.22.0.3:57219 as auto-AAB42F04-13AF-ED67-BA90-098267DB9F50 (p2, c1, k60).
+1744104250: New connection from 172.22.0.1:40686 on port 1883.
+1744104250: New client connected from 172.22.0.1:40686 as mqtt-explorer-d397811b (p2, c1, k60).
+1744104250: New connection from 172.22.0.4:34841 on port 1883.
+1744104250: New client connected from 172.22.0.4:34841 as auto-F51A0F7D-5304-BA4D-46A3-0E3331544CA6 (p2, c1, k60).
+1744104634: Client auto-F51A0F7D-5304-BA4D-46A3-0E3331544CA6 closed its connection.
+1744104644: Client auto-AAB42F04-13AF-ED67-BA90-098267DB9F50 closed its connection.
+1744104644: Client auto-8DC187B8-E52C-B1FE-0E7D-E463643BEAC8 closed its connection.
+1744104644: mosquitto version 2.0.21 terminating
+1744104644: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744104644: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744104644: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744104847: mosquitto version 2.0.21 starting
+1744104847: Config loaded from /mosquitto/config/mosquitto.conf.
+1744104847: Opening ipv4 listen socket on port 1883.
+1744104847: Opening ipv6 listen socket on port 1883.
+1744104847: mosquitto version 2.0.21 running
+1744104848: New connection from 172.22.0.1:57884 on port 1883.
+1744104848: New client connected from 172.22.0.1:57884 as mqtt-explorer-d397811b (p2, c1, k60).
+1744105052: New connection from 172.22.0.3:39247 on port 1883.
+1744105052: New client connected from 172.22.0.3:39247 as auto-F328B123-2AA8-1565-3F8E-6EA5B3AE7E14 (p2, c1, k60).
+1744105052: New connection from 172.22.0.3:36133 on port 1883.
+1744105052: New client connected from 172.22.0.3:36133 as auto-E4F3050A-C29E-759B-A6C1-44E861D3E416 (p2, c1, k60).
+1744105053: New connection from 172.22.0.4:46727 on port 1883.
+1744105053: New client connected from 172.22.0.4:46727 as auto-0C368E11-A74B-51FD-F971-472EDB5AE509 (p2, c1, k60).
+1744105215: Client auto-0C368E11-A74B-51FD-F971-472EDB5AE509 closed its connection.
+1744105224: Client auto-E4F3050A-C29E-759B-A6C1-44E861D3E416 closed its connection.
+1744105224: Client auto-F328B123-2AA8-1565-3F8E-6EA5B3AE7E14 closed its connection.
+1744105225: mosquitto version 2.0.21 terminating
+1744105225: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744105225: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744105225: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744105230: mosquitto version 2.0.21 starting
+1744105230: Config loaded from /mosquitto/config/mosquitto.conf.
+1744105230: Opening ipv4 listen socket on port 1883.
+1744105230: Opening ipv6 listen socket on port 1883.
+1744105230: mosquitto version 2.0.21 running
+1744105230: New connection from 172.22.0.3:39433 on port 1883.
+1744105230: New client connected from 172.22.0.3:39433 as auto-87CB4976-B4F0-6AC9-C0E9-21E75FAF406E (p2, c1, k60).
+1744105230: New connection from 172.22.0.3:43605 on port 1883.
+1744105230: New client connected from 172.22.0.3:43605 as auto-8F06BC99-0A2A-C650-D6FE-E6CE7636B60E (p2, c1, k60).
+1744105231: New connection from 172.22.0.1:35430 on port 1883.
+1744105231: New client connected from 172.22.0.1:35430 as mqtt-explorer-d397811b (p2, c1, k60).
+1744105231: New connection from 172.22.0.4:44411 on port 1883.
+1744105231: New client connected from 172.22.0.4:44411 as auto-71765063-4FAA-D6F9-021D-D8F3E6578654 (p2, c1, k60).
+1744105274: Client auto-71765063-4FAA-D6F9-021D-D8F3E6578654 closed its connection.
+1744105284: Client auto-8F06BC99-0A2A-C650-D6FE-E6CE7636B60E closed its connection.
+1744105284: Client auto-87CB4976-B4F0-6AC9-C0E9-21E75FAF406E closed its connection.
+1744105284: mosquitto version 2.0.21 terminating
+1744105284: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744105284: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744105284: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744105328: mosquitto version 2.0.21 starting
+1744105328: Config loaded from /mosquitto/config/mosquitto.conf.
+1744105328: Opening ipv4 listen socket on port 1883.
+1744105328: Opening ipv6 listen socket on port 1883.
+1744105328: mosquitto version 2.0.21 running
+1744105330: New connection from 172.22.0.1:48638 on port 1883.
+1744105330: New client connected from 172.22.0.1:48638 as mqtt-explorer-d397811b (p2, c1, k60).
+1744105333: New connection from 172.22.0.3:58037 on port 1883.
+1744105333: New client connected from 172.22.0.3:58037 as auto-0ED6C1EA-5E08-80FE-0AAE-EB26A405309F (p2, c1, k60).
+1744105333: New connection from 172.22.0.3:44099 on port 1883.
+1744105333: New client connected from 172.22.0.3:44099 as auto-1F55E974-8EBC-4509-ACD5-1EB53347E695 (p2, c1, k60).
+1744105334: New connection from 172.22.0.4:33517 on port 1883.
+1744105334: New client connected from 172.22.0.4:33517 as auto-A8A5F0B5-E209-A0C4-3A47-D194E9CC6C5A (p2, c1, k60).
+1744105469: Client auto-A8A5F0B5-E209-A0C4-3A47-D194E9CC6C5A closed its connection.
+1744105478: Client auto-1F55E974-8EBC-4509-ACD5-1EB53347E695 closed its connection.
+1744105478: Client auto-0ED6C1EA-5E08-80FE-0AAE-EB26A405309F closed its connection.
+1744105479: mosquitto version 2.0.21 terminating
+1744105479: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744105479: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744105479: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744105580: mosquitto version 2.0.21 starting
+1744105580: Config loaded from /mosquitto/config/mosquitto.conf.
+1744105580: Opening ipv4 listen socket on port 1883.
+1744105580: Opening ipv6 listen socket on port 1883.
+1744105580: mosquitto version 2.0.21 running
+1744105581: New connection from 172.22.0.3:59215 on port 1883.
+1744105581: New client connected from 172.22.0.3:59215 as auto-C5FF18CF-A7F2-F459-ACA9-3A5C3F6B963D (p2, c1, k60).
+1744105581: New connection from 172.22.0.3:58797 on port 1883.
+1744105581: New client connected from 172.22.0.3:58797 as auto-9B678B67-742A-D7D1-C34E-12496282565C (p2, c1, k60).
+1744105582: New connection from 172.22.0.4:50767 on port 1883.
+1744105582: New client connected from 172.22.0.4:50767 as auto-6500B59D-99F4-032E-B8B6-89BBF562D5C9 (p2, c1, k60).
+1744105582: New connection from 172.22.0.1:54150 on port 1883.
+1744105582: New client connected from 172.22.0.1:54150 as mqtt-explorer-d397811b (p2, c1, k60).
+1744105643: Client auto-6500B59D-99F4-032E-B8B6-89BBF562D5C9 closed its connection.
+1744105653: Client auto-9B678B67-742A-D7D1-C34E-12496282565C closed its connection.
+1744105653: Client auto-C5FF18CF-A7F2-F459-ACA9-3A5C3F6B963D closed its connection.
+1744105653: mosquitto version 2.0.21 terminating
+1744105653: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744105653: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744105653: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744105830: mosquitto version 2.0.21 starting
+1744105830: Config loaded from /mosquitto/config/mosquitto.conf.
+1744105830: Opening ipv4 listen socket on port 1883.
+1744105830: Opening ipv6 listen socket on port 1883.
+1744105830: mosquitto version 2.0.21 running
+1744105830: New connection from 172.22.0.3:40855 on port 1883.
+1744105830: New client connected from 172.22.0.3:40855 as auto-7DDE621F-533B-E00E-2F39-A2DFF56CDE9C (p2, c1, k60).
+1744105830: New connection from 172.22.0.3:58987 on port 1883.
+1744105830: New client connected from 172.22.0.3:58987 as auto-CC0ED3B1-53F2-6F54-FC5B-F357E73E74C1 (p2, c1, k60).
+1744105831: New connection from 172.22.0.1:40886 on port 1883.
+1744105831: New client connected from 172.22.0.1:40886 as mqtt-explorer-d397811b (p2, c1, k60).
+1744105832: New connection from 172.22.0.4:35269 on port 1883.
+1744105832: New client connected from 172.22.0.4:35269 as auto-83FB466A-2DB7-0E33-949B-9F0DDBFAF9E9 (p2, c1, k60).
+1744106123: Client auto-83FB466A-2DB7-0E33-949B-9F0DDBFAF9E9 closed its connection.
+1744106133: Client auto-CC0ED3B1-53F2-6F54-FC5B-F357E73E74C1 closed its connection.
+1744106133: Client auto-7DDE621F-533B-E00E-2F39-A2DFF56CDE9C closed its connection.
+1744106133: mosquitto version 2.0.21 terminating
+1744106133: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744106133: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744106133: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744106141: mosquitto version 2.0.21 starting
+1744106141: Config loaded from /mosquitto/config/mosquitto.conf.
+1744106141: Opening ipv4 listen socket on port 1883.
+1744106141: Opening ipv6 listen socket on port 1883.
+1744106141: mosquitto version 2.0.21 running
+1744106142: New connection from 172.22.0.3:60265 on port 1883.
+1744106142: New client connected from 172.22.0.3:60265 as auto-77E2A2D1-F1AC-BD5B-CCA6-6096BE348673 (p2, c1, k60).
+1744106142: New connection from 172.22.0.3:60839 on port 1883.
+1744106142: New client connected from 172.22.0.3:60839 as auto-B63A6A51-C00C-5B69-17FE-47C6910E5C92 (p2, c1, k60).
+1744106143: New connection from 172.22.0.1:37204 on port 1883.
+1744106143: New client connected from 172.22.0.1:37204 as mqtt-explorer-d397811b (p2, c1, k60).
+1744106143: New connection from 172.22.0.4:47163 on port 1883.
+1744106143: New client connected from 172.22.0.4:47163 as auto-3A0702C3-4232-86A3-FE0A-6F51A0BAF574 (p2, c1, k60).
+1744106279: Client auto-3A0702C3-4232-86A3-FE0A-6F51A0BAF574 closed its connection.
+1744106289: Client auto-B63A6A51-C00C-5B69-17FE-47C6910E5C92 closed its connection.
+1744106289: Client auto-77E2A2D1-F1AC-BD5B-CCA6-6096BE348673 closed its connection.
+1744106289: mosquitto version 2.0.21 terminating
+1744106289: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744106289: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744106289: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744106295: mosquitto version 2.0.21 starting
+1744106295: Config loaded from /mosquitto/config/mosquitto.conf.
+1744106295: Opening ipv4 listen socket on port 1883.
+1744106295: Opening ipv6 listen socket on port 1883.
+1744106295: mosquitto version 2.0.21 running
+1744106296: New connection from 172.22.0.1:33476 on port 1883.
+1744106296: New client connected from 172.22.0.1:33476 as mqtt-explorer-d397811b (p2, c1, k60).
+1744106299: New connection from 172.22.0.3:52051 on port 1883.
+1744106299: New client connected from 172.22.0.3:52051 as auto-D4934ECB-B5F1-0129-30D3-A120A70A67A0 (p2, c1, k60).
+1744106299: New connection from 172.22.0.3:60211 on port 1883.
+1744106299: New client connected from 172.22.0.3:60211 as auto-A3911CCA-65B1-97DB-6BBF-DBD1BFF0A536 (p2, c1, k60).
+1744106300: New connection from 172.22.0.4:58519 on port 1883.
+1744106300: New client connected from 172.22.0.4:58519 as auto-798416C2-FEB5-9461-2C62-204CF558EC19 (p2, c1, k60).
+1744106411: Client auto-798416C2-FEB5-9461-2C62-204CF558EC19 closed its connection.
+1744106421: Client auto-A3911CCA-65B1-97DB-6BBF-DBD1BFF0A536 closed its connection.
+1744106421: Client auto-D4934ECB-B5F1-0129-30D3-A120A70A67A0 closed its connection.
+1744106421: mosquitto version 2.0.21 terminating
+1744106421: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744106421: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744106421: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744106426: mosquitto version 2.0.21 starting
+1744106426: Config loaded from /mosquitto/config/mosquitto.conf.
+1744106426: Opening ipv4 listen socket on port 1883.
+1744106426: Opening ipv6 listen socket on port 1883.
+1744106426: mosquitto version 2.0.21 running
+1744106426: New connection from 172.22.0.3:33067 on port 1883.
+1744106426: New client connected from 172.22.0.3:33067 as auto-689B6489-6CD4-6D6E-58E5-A06DA3169CD3 (p2, c1, k60).
+1744106426: New connection from 172.22.0.3:51677 on port 1883.
+1744106426: New client connected from 172.22.0.3:51677 as auto-2D76BAA6-E4E4-A9C9-1820-66CC180ACF8B (p2, c1, k60).
+1744106427: New connection from 172.22.0.4:33707 on port 1883.
+1744106427: New client connected from 172.22.0.4:33707 as auto-C2BA7763-A16B-9AA2-DD5E-AC81F30F21D3 (p2, c1, k60).
+1744106428: New connection from 172.22.0.1:40534 on port 1883.
+1744106428: New client connected from 172.22.0.1:40534 as mqtt-explorer-d397811b (p2, c1, k60).
+1744106664: Client auto-C2BA7763-A16B-9AA2-DD5E-AC81F30F21D3 closed its connection.
+1744106674: Client auto-2D76BAA6-E4E4-A9C9-1820-66CC180ACF8B closed its connection.
+1744106674: Client auto-689B6489-6CD4-6D6E-58E5-A06DA3169CD3 closed its connection.
+1744106674: mosquitto version 2.0.21 terminating
+1744106674: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744106674: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744106674: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744106681: mosquitto version 2.0.21 starting
+1744106681: Config loaded from /mosquitto/config/mosquitto.conf.
+1744106681: Opening ipv4 listen socket on port 1883.
+1744106681: Opening ipv6 listen socket on port 1883.
+1744106681: mosquitto version 2.0.21 running
+1744106683: New connection from 172.22.0.1:36846 on port 1883.
+1744106683: New client connected from 172.22.0.1:36846 as mqtt-explorer-d397811b (p2, c1, k60).
+1744106754: New connection from 172.22.0.3:47895 on port 1883.
+1744106754: New client connected from 172.22.0.3:47895 as auto-722E0F7B-20F3-9686-6EBD-9D99522CC9B4 (p2, c1, k60).
+1744106754: New connection from 172.22.0.3:38293 on port 1883.
+1744106754: New client connected from 172.22.0.3:38293 as auto-A93D9CBB-4176-9338-FA25-5B28B4F7A119 (p2, c1, k60).
+1744106774: Client auto-A93D9CBB-4176-9338-FA25-5B28B4F7A119 closed its connection.
+1744106774: Client auto-722E0F7B-20F3-9686-6EBD-9D99522CC9B4 closed its connection.
+1744106774: New connection from 172.22.0.3:45605 on port 1883.
+1744106774: New client connected from 172.22.0.3:45605 as auto-74A4CB0B-F17A-F900-2472-58A110656BFD (p2, c1, k60).
+1744106774: New connection from 172.22.0.3:47121 on port 1883.
+1744106774: New client connected from 172.22.0.3:47121 as auto-890FB10D-FDAA-F5F6-559F-EB7E6A4F0FD1 (p2, c1, k60).
+1744106802: Client auto-890FB10D-FDAA-F5F6-559F-EB7E6A4F0FD1 closed its connection.
+1744106802: Client auto-74A4CB0B-F17A-F900-2472-58A110656BFD closed its connection.
+1744106803: New connection from 172.22.0.3:58379 on port 1883.
+1744106803: New client connected from 172.22.0.3:58379 as auto-47619760-89E5-3C87-DAC6-6437BF25E434 (p2, c1, k60).
+1744106803: New connection from 172.22.0.3:42535 on port 1883.
+1744106803: New client connected from 172.22.0.3:42535 as auto-89F2680D-F6DE-9B92-13CA-7C5A25D13478 (p2, c1, k60).
+1744106817: Client auto-89F2680D-F6DE-9B92-13CA-7C5A25D13478 closed its connection.
+1744106817: Client auto-47619760-89E5-3C87-DAC6-6437BF25E434 closed its connection.
+1744106818: New connection from 172.22.0.3:55023 on port 1883.
+1744106818: New client connected from 172.22.0.3:55023 as auto-666A6B50-929C-F4D9-2205-3939BD906D90 (p2, c1, k60).
+1744106818: New connection from 172.22.0.3:38665 on port 1883.
+1744106818: New client connected from 172.22.0.3:38665 as auto-364006D8-5CAB-2154-F88E-BEBBF986DEB5 (p2, c1, k60).
+1744106819: New connection from 172.22.0.4:59575 on port 1883.
+1744106819: New client connected from 172.22.0.4:59575 as auto-110FCE8F-9C2C-D696-E2AC-13C29F89F2B5 (p2, c1, k60).
+1744106862: Client mqtt-explorer-d397811b disconnected.
+1744106864: New connection from 172.22.0.1:51574 on port 1883.
+1744106864: New client connected from 172.22.0.1:51574 as mqtt-explorer-d397811b (p2, c1, k60).
+1744107060: Client auto-110FCE8F-9C2C-D696-E2AC-13C29F89F2B5 closed its connection.
+1744107070: Client auto-364006D8-5CAB-2154-F88E-BEBBF986DEB5 closed its connection.
+1744107070: Client auto-666A6B50-929C-F4D9-2205-3939BD906D90 closed its connection.
+1744107070: mosquitto version 2.0.21 terminating
+1744107070: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744107070: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744107070: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744107075: mosquitto version 2.0.21 starting
+1744107075: Config loaded from /mosquitto/config/mosquitto.conf.
+1744107075: Opening ipv4 listen socket on port 1883.
+1744107075: Opening ipv6 listen socket on port 1883.
+1744107075: mosquitto version 2.0.21 running
+1744107075: New connection from 172.22.0.3:57365 on port 1883.
+1744107075: New connection from 172.22.0.3:32911 on port 1883.
+1744107075: New client connected from 172.22.0.3:57365 as auto-6374F771-150B-534B-1FCB-BB2F8118DC31 (p2, c1, k60).
+1744107075: New client connected from 172.22.0.3:32911 as auto-5C098F39-E96C-612F-49E1-2F41F1CC1FE6 (p2, c1, k60).
+1744107076: New connection from 172.22.0.4:50913 on port 1883.
+1744107076: New client connected from 172.22.0.4:50913 as auto-A0E7D6DC-045C-90A6-E2EA-0F6CACCAA93D (p2, c1, k60).
+1744107076: New connection from 172.22.0.1:41514 on port 1883.
+1744107076: New client connected from 172.22.0.1:41514 as mqtt-explorer-d397811b (p2, c1, k60).
+1744107277: Client auto-A0E7D6DC-045C-90A6-E2EA-0F6CACCAA93D closed its connection.
+1744107287: Client auto-5C098F39-E96C-612F-49E1-2F41F1CC1FE6 closed its connection.
+1744107287: Client auto-6374F771-150B-534B-1FCB-BB2F8118DC31 closed its connection.
+1744107287: mosquitto version 2.0.21 terminating
+1744107287: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744107287: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744107287: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744107292: mosquitto version 2.0.21 starting
+1744107292: Config loaded from /mosquitto/config/mosquitto.conf.
+1744107292: Opening ipv4 listen socket on port 1883.
+1744107292: Opening ipv6 listen socket on port 1883.
+1744107292: mosquitto version 2.0.21 running
+1744107292: New connection from 172.22.0.1:55714 on port 1883.
+1744107292: New client connected from 172.22.0.1:55714 as mqtt-explorer-d397811b (p2, c1, k60).
+1744107292: New connection from 172.22.0.3:53369 on port 1883.
+1744107292: New client connected from 172.22.0.3:53369 as auto-37F48FC0-54B3-9629-21C6-6148454D40A9 (p2, c1, k60).
+1744107292: New connection from 172.22.0.3:44325 on port 1883.
+1744107292: New client connected from 172.22.0.3:44325 as auto-C574DA3D-9451-54FF-33BB-544FCD9708EC (p2, c1, k60).
+1744107293: New connection from 172.22.0.4:60873 on port 1883.
+1744107293: New client connected from 172.22.0.4:60873 as auto-B576729C-3F4A-3F89-B67C-4655C3C88A1F (p2, c1, k60).
+1744107618: Client mqtt-explorer-d397811b disconnected.
+1744107620: New connection from 172.22.0.1:38086 on port 1883.
+1744107620: New client connected from 172.22.0.1:38086 as mqtt-explorer-d397811b (p2, c1, k60).
+1744107629: Client mqtt-explorer-d397811b disconnected.
+1744107636: Client auto-B576729C-3F4A-3F89-B67C-4655C3C88A1F closed its connection.
+1744107640: New connection from 172.22.0.1:60556 on port 1883.
+1744107640: New client connected from 172.22.0.1:60556 as mqtt-explorer-d397811b (p2, c1, k60).
+1744107646: Client auto-C574DA3D-9451-54FF-33BB-544FCD9708EC closed its connection.
+1744107646: Client auto-37F48FC0-54B3-9629-21C6-6148454D40A9 closed its connection.
+1744107646: mosquitto version 2.0.21 terminating
+1744107646: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744107646: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744107646: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744107657: mosquitto version 2.0.21 starting
+1744107657: Config loaded from /mosquitto/config/mosquitto.conf.
+1744107657: Opening ipv4 listen socket on port 1883.
+1744107657: Opening ipv6 listen socket on port 1883.
+1744107657: mosquitto version 2.0.21 running
+1744107657: New connection from 172.22.0.3:60807 on port 1883.
+1744107657: New client connected from 172.22.0.3:60807 as auto-60E64F90-E592-E819-0164-E32B0C0B6ED8 (p2, c1, k60).
+1744107657: New connection from 172.22.0.3:42453 on port 1883.
+1744107657: New client connected from 172.22.0.3:42453 as auto-4CF91593-A3EB-6012-A55F-0492682B9375 (p2, c1, k60).
+1744107658: New connection from 172.22.0.4:54761 on port 1883.
+1744107658: New client connected from 172.22.0.4:54761 as auto-875A2225-BD8D-EBA7-D182-BBB0467F13AE (p2, c1, k60).
+1744107659: New connection from 172.22.0.1:48030 on port 1883.
+1744107659: New client connected from 172.22.0.1:48030 as mqtt-explorer-d397811b (p2, c1, k60).
+1744108065: Client auto-875A2225-BD8D-EBA7-D182-BBB0467F13AE closed its connection.
+1744108075: Client auto-4CF91593-A3EB-6012-A55F-0492682B9375 closed its connection.
+1744108075: Client auto-60E64F90-E592-E819-0164-E32B0C0B6ED8 closed its connection.
+1744108075: mosquitto version 2.0.21 terminating
+1744108075: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744108075: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744108075: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744108087: mosquitto version 2.0.21 starting
+1744108087: Config loaded from /mosquitto/config/mosquitto.conf.
+1744108087: Opening ipv4 listen socket on port 1883.
+1744108087: Opening ipv6 listen socket on port 1883.
+1744108087: mosquitto version 2.0.21 running
+1744108087: New connection from 172.22.0.3:35649 on port 1883.
+1744108087: New connection from 172.22.0.3:60407 on port 1883.
+1744108087: New client connected from 172.22.0.3:35649 as auto-AF8F1C92-0CBC-A3BE-95A8-D46DF48CC400 (p2, c1, k60).
+1744108087: New client connected from 172.22.0.3:60407 as auto-B73B8C1E-1D1F-954E-9531-DC7785F61714 (p2, c1, k60).
+1744108087: New connection from 172.22.0.1:44342 on port 1883.
+1744108087: New client connected from 172.22.0.1:44342 as mqtt-explorer-d397811b (p2, c1, k60).
+1744108088: New connection from 172.22.0.4:60479 on port 1883.
+1744108088: New client connected from 172.22.0.4:60479 as auto-EBBFB052-42EC-0FC6-AC3B-B2F94F4E71A4 (p2, c1, k60).
+1744108433: Client auto-EBBFB052-42EC-0FC6-AC3B-B2F94F4E71A4 closed its connection.
+1744108443: Client auto-B73B8C1E-1D1F-954E-9531-DC7785F61714 closed its connection.
+1744108443: Client auto-AF8F1C92-0CBC-A3BE-95A8-D46DF48CC400 closed its connection.
+1744108443: mosquitto version 2.0.21 terminating
+1744108443: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744108443: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744108443: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744108465: mosquitto version 2.0.21 starting
+1744108465: Config loaded from /mosquitto/config/mosquitto.conf.
+1744108465: Opening ipv4 listen socket on port 1883.
+1744108465: Opening ipv6 listen socket on port 1883.
+1744108465: mosquitto version 2.0.21 running
+1744108466: New connection from 172.23.0.3:57017 on port 1883.
+1744108466: New client connected from 172.23.0.3:57017 as auto-C6B1EB58-1C9B-C941-6AC8-ED532FA8699D (p2, c1, k60).
+1744108466: New connection from 172.23.0.3:57627 on port 1883.
+1744108466: New client connected from 172.23.0.3:57627 as auto-497E995A-C40C-54F1-72C3-011B04B8AB83 (p2, c1, k60).
+1744108467: New connection from 172.23.0.4:58687 on port 1883.
+1744108467: New client connected from 172.23.0.4:58687 as auto-E910A327-27EC-A89F-1235-2D0704AFBCF1 (p2, c1, k60).
+1744108468: New connection from 172.23.0.1:51364 on port 1883.
+1744108468: New client connected from 172.23.0.1:51364 as mqtt-explorer-d397811b (p2, c1, k60).
+1744108489: Client auto-E910A327-27EC-A89F-1235-2D0704AFBCF1 closed its connection.
+1744108499: Client auto-497E995A-C40C-54F1-72C3-011B04B8AB83 closed its connection.
+1744108499: Client auto-C6B1EB58-1C9B-C941-6AC8-ED532FA8699D closed its connection.
+1744108499: New connection from 172.23.0.3:55375 on port 1883.
+1744108499: New client connected from 172.23.0.3:55375 as auto-D4485D22-6032-D658-5313-3AA640A7BB58 (p2, c1, k60).
+1744108499: New connection from 172.23.0.3:42453 on port 1883.
+1744108499: New client connected from 172.23.0.3:42453 as auto-73F43DDA-C60E-880F-E352-63917EA51C57 (p2, c1, k60).
+1744108500: New connection from 172.23.0.4:50945 on port 1883.
+1744108500: New client connected from 172.23.0.4:50945 as auto-1D0D3BBC-2566-8F15-B9C5-C4463716B55E (p2, c1, k60).
+1744109643: Client auto-1D0D3BBC-2566-8F15-B9C5-C4463716B55E closed its connection.
+1744109652: Client auto-73F43DDA-C60E-880F-E352-63917EA51C57 closed its connection.
+1744109652: Client auto-D4485D22-6032-D658-5313-3AA640A7BB58 closed its connection.
+1744109713: New connection from 172.23.0.3:59767 on port 1883.
+1744109713: New client connected from 172.23.0.3:59767 as auto-12D75D25-929F-74E2-73B6-CDB73F88BE48 (p2, c1, k60).
+1744109713: New connection from 172.23.0.3:57187 on port 1883.
+1744109713: New client connected from 172.23.0.3:57187 as auto-F373C61A-B814-51ED-4F7C-19D64C38948D (p2, c1, k60).
+1744109714: New connection from 172.23.0.4:51823 on port 1883.
+1744109714: New client connected from 172.23.0.4:51823 as auto-862A24C4-6F6A-E29F-9670-94BBADA7E778 (p2, c1, k60).
+1744109722: Client auto-862A24C4-6F6A-E29F-9670-94BBADA7E778 closed its connection.
+1744110469: mosquitto version 2.0.21 starting
+1744110469: Config loaded from /mosquitto/config/mosquitto.conf.
+1744110469: Opening ipv4 listen socket on port 1883.
+1744110469: Opening ipv6 listen socket on port 1883.
+1744110469: mosquitto version 2.0.21 running
+1744110470: New connection from 172.23.0.3:43315 on port 1883.
+1744110470: New client connected from 172.23.0.3:43315 as auto-FF7A6FD3-F684-4FDB-A00C-2176C20B0FE0 (p2, c1, k60).
+1744110470: New connection from 172.23.0.3:38975 on port 1883.
+1744110470: New client connected from 172.23.0.3:38975 as auto-6037889B-59B6-09D7-BCA1-398DF6D7092C (p2, c1, k60).
+1744110471: New connection from 172.23.0.4:41091 on port 1883.
+1744110471: New client connected from 172.23.0.4:41091 as auto-A9492242-7D47-9D99-7D73-7F887968BC72 (p2, c1, k60).
+1744110472: New connection from 172.23.0.1:52422 on port 1883.
+1744110472: New client connected from 172.23.0.1:52422 as mqtt-explorer-d397811b (p2, c1, k60).
+1744110562: Client auto-A9492242-7D47-9D99-7D73-7F887968BC72 has exceeded timeout, disconnecting.
+1744110624: Client auto-6037889B-59B6-09D7-BCA1-398DF6D7092C closed its connection.
+1744110624: Client auto-FF7A6FD3-F684-4FDB-A00C-2176C20B0FE0 closed its connection.
+1744110624: mosquitto version 2.0.21 terminating
+1744110624: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744110624: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744110624: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744110657: mosquitto version 2.0.21 starting
+1744110657: Config loaded from /mosquitto/config/mosquitto.conf.
+1744110657: Opening ipv4 listen socket on port 1883.
+1744110657: Opening ipv6 listen socket on port 1883.
+1744110657: mosquitto version 2.0.21 running
+1744110658: New connection from 172.23.0.3:45831 on port 1883.
+1744110658: New client connected from 172.23.0.3:45831 as auto-547B3F26-73CF-BFE4-CACE-69BBF7DBE264 (p2, c1, k60).
+1744110658: New connection from 172.23.0.3:50397 on port 1883.
+1744110658: New client connected from 172.23.0.3:50397 as auto-CC5F2CEF-F398-9FFB-444E-4421CDF56ADE (p2, c1, k60).
+1744110658: New connection from 172.23.0.1:49942 on port 1883.
+1744110658: New client connected from 172.23.0.1:49942 as mqtt-explorer-d397811b (p2, c1, k60).
+1744110659: New connection from 172.23.0.4:36231 on port 1883.
+1744110659: New client connected from 172.23.0.4:36231 as auto-1A3803B9-1669-A613-F243-9E8501D5DA27 (p2, c1, k60).
+1744110748: Client auto-1A3803B9-1669-A613-F243-9E8501D5DA27 closed its connection.
+1744110758: Client auto-CC5F2CEF-F398-9FFB-444E-4421CDF56ADE closed its connection.
+1744110758: Client auto-547B3F26-73CF-BFE4-CACE-69BBF7DBE264 closed its connection.
+1744110758: mosquitto version 2.0.21 terminating
+1744110758: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744110758: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744110758: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744110918: mosquitto version 2.0.21 starting
+1744110918: Config loaded from /mosquitto/config/mosquitto.conf.
+1744110918: Opening ipv4 listen socket on port 1883.
+1744110918: Opening ipv6 listen socket on port 1883.
+1744110918: mosquitto version 2.0.21 running
+1744110918: New connection from 172.23.0.3:38457 on port 1883.
+1744110918: New client connected from 172.23.0.3:38457 as auto-35A46C66-4712-0DDF-8776-9A651C3882E7 (p2, c1, k60).
+1744110918: New connection from 172.23.0.3:48749 on port 1883.
+1744110918: New client connected from 172.23.0.3:48749 as auto-3C5F4313-890A-73D6-119D-5015F72393D5 (p2, c1, k60).
+1744110919: New connection from 172.23.0.1:41028 on port 1883.
+1744110919: New client connected from 172.23.0.1:41028 as mqtt-explorer-d397811b (p2, c1, k60).
+1744110920: New connection from 172.23.0.4:36877 on port 1883.
+1744110920: New client connected from 172.23.0.4:36877 as auto-340AAEC8-FF8E-40DE-E700-DC36E27506D9 (p2, c1, k60).
+1744111563: Client auto-340AAEC8-FF8E-40DE-E700-DC36E27506D9 closed its connection.
+1744111573: Client auto-3C5F4313-890A-73D6-119D-5015F72393D5 closed its connection.
+1744111573: Client auto-35A46C66-4712-0DDF-8776-9A651C3882E7 closed its connection.
+1744111573: mosquitto version 2.0.21 terminating
+1744111573: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744111573: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744111573: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744111601: mosquitto version 2.0.21 starting
+1744111601: Config loaded from /mosquitto/config/mosquitto.conf.
+1744111601: Opening ipv4 listen socket on port 1883.
+1744111601: Opening ipv6 listen socket on port 1883.
+1744111601: mosquitto version 2.0.21 running
+1744111602: New connection from 172.23.0.3:43867 on port 1883.
+1744111602: New client connected from 172.23.0.3:43867 as auto-F039F0E3-69B1-4A58-E0C9-CA73E9A8CEA0 (p2, c1, k60).
+1744111602: New connection from 172.23.0.3:45581 on port 1883.
+1744111602: New client connected from 172.23.0.3:45581 as auto-E07EE3DB-0A68-3293-D1D1-743F159D7E08 (p2, c1, k60).
+1744111603: New connection from 172.23.0.4:46249 on port 1883.
+1744111603: New client connected from 172.23.0.4:46249 as auto-6B219D0E-D666-948E-F375-6EEE3CB9DCBB (p2, c1, k60).
+1744111603: New connection from 172.23.0.1:36566 on port 1883.
+1744111603: New client connected from 172.23.0.1:36566 as mqtt-explorer-d397811b (p2, c1, k60).
+1744111678: Client auto-6B219D0E-D666-948E-F375-6EEE3CB9DCBB closed its connection.
+1744111688: Client auto-E07EE3DB-0A68-3293-D1D1-743F159D7E08 closed its connection.
+1744111688: Client auto-F039F0E3-69B1-4A58-E0C9-CA73E9A8CEA0 closed its connection.
+1744111688: mosquitto version 2.0.21 terminating
+1744111688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744111688: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744111688: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744111693: mosquitto version 2.0.21 starting
+1744111693: Config loaded from /mosquitto/config/mosquitto.conf.
+1744111693: Opening ipv4 listen socket on port 1883.
+1744111693: Opening ipv6 listen socket on port 1883.
+1744111693: mosquitto version 2.0.21 running
+1744111693: New connection from 172.23.0.1:53274 on port 1883.
+1744111693: New client connected from 172.23.0.1:53274 as mqtt-explorer-d397811b (p2, c1, k60).
+1744111693: New connection from 172.23.0.3:32941 on port 1883.
+1744111693: New client connected from 172.23.0.3:32941 as auto-7A53AC67-C951-733B-4DDA-8F9239CCB4E0 (p2, c1, k60).
+1744111693: New connection from 172.23.0.3:47853 on port 1883.
+1744111693: New client connected from 172.23.0.3:47853 as auto-A465882E-E9FC-C469-186D-22C8F622ABC5 (p2, c1, k60).
+1744111694: New connection from 172.23.0.4:49357 on port 1883.
+1744111694: New client connected from 172.23.0.4:49357 as auto-374606B9-02AA-F736-6DA9-781F6542BD43 (p2, c1, k60).
+1744111725: Client auto-374606B9-02AA-F736-6DA9-781F6542BD43 closed its connection.
+1744111735: Client auto-A465882E-E9FC-C469-186D-22C8F622ABC5 closed its connection.
+1744111735: Client auto-7A53AC67-C951-733B-4DDA-8F9239CCB4E0 closed its connection.
+1744111736: mosquitto version 2.0.21 terminating
+1744111736: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744111736: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744111736: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744111745: mosquitto version 2.0.21 starting
+1744111745: Config loaded from /mosquitto/config/mosquitto.conf.
+1744111745: Opening ipv4 listen socket on port 1883.
+1744111745: Opening ipv6 listen socket on port 1883.
+1744111745: mosquitto version 2.0.21 running
+1744111745: New connection from 172.23.0.3:48973 on port 1883.
+1744111745: New client connected from 172.23.0.3:48973 as auto-1AE8F52B-B70E-C88A-A2E7-42C277C4B346 (p2, c1, k60).
+1744111745: New connection from 172.23.0.3:33349 on port 1883.
+1744111745: New client connected from 172.23.0.3:33349 as auto-2C11735F-3B36-F23C-7D1F-DEF94B61A03A (p2, c1, k60).
+1744111746: New connection from 172.23.0.4:34379 on port 1883.
+1744111746: New client connected from 172.23.0.4:34379 as auto-2F24491C-F58A-CD83-508C-CA7192334F90 (p2, c1, k60).
+1744111747: New connection from 172.23.0.1:51342 on port 1883.
+1744111747: New client connected from 172.23.0.1:51342 as mqtt-explorer-d397811b (p2, c1, k60).
+1744111872: Client auto-2F24491C-F58A-CD83-508C-CA7192334F90 closed its connection.
+1744111882: Client auto-2C11735F-3B36-F23C-7D1F-DEF94B61A03A closed its connection.
+1744111882: Client auto-1AE8F52B-B70E-C88A-A2E7-42C277C4B346 closed its connection.
+1744111882: mosquitto version 2.0.21 terminating
+1744111882: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744111882: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744111882: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744111887: mosquitto version 2.0.21 starting
+1744111887: Config loaded from /mosquitto/config/mosquitto.conf.
+1744111887: Opening ipv4 listen socket on port 1883.
+1744111887: Opening ipv6 listen socket on port 1883.
+1744111887: mosquitto version 2.0.21 running
+1744111888: New connection from 172.23.0.3:33871 on port 1883.
+1744111888: New client connected from 172.23.0.3:33871 as auto-0C98763A-DF6C-12A0-4710-04E12C23F28D (p2, c1, k60).
+1744111888: New connection from 172.23.0.3:60469 on port 1883.
+1744111888: New client connected from 172.23.0.3:60469 as auto-D3DF0724-2E7F-D2CB-1CCC-BFA17B53B232 (p2, c1, k60).
+1744111888: New connection from 172.23.0.1:57734 on port 1883.
+1744111888: New client connected from 172.23.0.1:57734 as mqtt-explorer-d397811b (p2, c1, k60).
+1744111889: New connection from 172.23.0.4:49319 on port 1883.
+1744111889: New client connected from 172.23.0.4:49319 as auto-4482E527-ADB5-DFDF-D997-6C4CDF1434A9 (p2, c1, k60).
+1744111980: Client auto-4482E527-ADB5-DFDF-D997-6C4CDF1434A9 has exceeded timeout, disconnecting.
+1744112132: Client auto-D3DF0724-2E7F-D2CB-1CCC-BFA17B53B232 closed its connection.
+1744112132: Client auto-0C98763A-DF6C-12A0-4710-04E12C23F28D closed its connection.
+1744112132: mosquitto version 2.0.21 terminating
+1744112132: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744112132: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744112132: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744112138: mosquitto version 2.0.21 starting
+1744112138: Config loaded from /mosquitto/config/mosquitto.conf.
+1744112138: Opening ipv4 listen socket on port 1883.
+1744112138: Opening ipv6 listen socket on port 1883.
+1744112138: mosquitto version 2.0.21 running
+1744112139: New connection from 172.23.0.3:51877 on port 1883.
+1744112139: New client connected from 172.23.0.3:51877 as auto-43D7075F-808D-504B-95A4-722CC3BA8CBF (p2, c1, k60).
+1744112139: New connection from 172.23.0.3:38031 on port 1883.
+1744112139: New client connected from 172.23.0.3:38031 as auto-13EEB095-5930-842C-2153-4DA0C69E71F5 (p2, c1, k60).
+1744112140: New connection from 172.23.0.1:43544 on port 1883.
+1744112140: New client connected from 172.23.0.1:43544 as mqtt-explorer-d397811b (p2, c1, k60).
+1744112140: New connection from 172.23.0.4:49777 on port 1883.
+1744112140: New client connected from 172.23.0.4:49777 as auto-3B7E8D15-6B16-881E-87D6-59185E7942DF (p2, c1, k60).
+1744112231: Client auto-3B7E8D15-6B16-881E-87D6-59185E7942DF has exceeded timeout, disconnecting.
+1744112437: Client auto-13EEB095-5930-842C-2153-4DA0C69E71F5 closed its connection.
+1744112437: Client auto-43D7075F-808D-504B-95A4-722CC3BA8CBF closed its connection.
+1744112438: mosquitto version 2.0.21 terminating
+1744112438: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744112438: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744112438: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744112447: mosquitto version 2.0.21 starting
+1744112447: Config loaded from /mosquitto/config/mosquitto.conf.
+1744112447: Opening ipv4 listen socket on port 1883.
+1744112447: Opening ipv6 listen socket on port 1883.
+1744112447: mosquitto version 2.0.21 running
+1744112448: New connection from 172.23.0.3:39195 on port 1883.
+1744112448: New connection from 172.23.0.3:47131 on port 1883.
+1744112448: New client connected from 172.23.0.3:39195 as auto-41860C88-0B18-E187-6DF8-4CB3B37A507C (p2, c1, k60).
+1744112448: New client connected from 172.23.0.3:47131 as auto-1576ED44-E7D5-DABB-66EC-3D70E167ECB9 (p2, c1, k60).
+1744112449: New connection from 172.23.0.4:57255 on port 1883.
+1744112449: New client connected from 172.23.0.4:57255 as auto-7214AEA7-6EE5-E857-CEA2-C92E8D6FD769 (p2, c1, k60).
+1744112449: New connection from 172.23.0.1:41224 on port 1883.
+1744112449: New client connected from 172.23.0.1:41224 as mqtt-explorer-d397811b (p2, c1, k60).
+1744112516: Client auto-7214AEA7-6EE5-E857-CEA2-C92E8D6FD769 closed its connection.
+1744112526: Client auto-1576ED44-E7D5-DABB-66EC-3D70E167ECB9 closed its connection.
+1744112526: Client auto-41860C88-0B18-E187-6DF8-4CB3B37A507C closed its connection.
+1744112526: mosquitto version 2.0.21 terminating
+1744112526: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744112526: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744112526: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744112530: mosquitto version 2.0.21 starting
+1744112530: Config loaded from /mosquitto/config/mosquitto.conf.
+1744112530: Opening ipv4 listen socket on port 1883.
+1744112530: Opening ipv6 listen socket on port 1883.
+1744112530: mosquitto version 2.0.21 running
+1744112531: New connection from 172.23.0.3:53089 on port 1883.
+1744112531: New client connected from 172.23.0.3:53089 as auto-7CC6EB45-6C55-B70C-40B9-1ADF5CB1D68F (p2, c1, k60).
+1744112531: New connection from 172.23.0.3:52103 on port 1883.
+1744112531: New client connected from 172.23.0.3:52103 as auto-4814951B-EBD3-4446-537B-D40E77D16EA4 (p2, c1, k60).
+1744112532: New connection from 172.23.0.4:46515 on port 1883.
+1744112532: New client connected from 172.23.0.4:46515 as auto-4F1E574F-24EC-5B98-0781-69CFD63BD9CA (p2, c1, k60).
+1744112533: New connection from 172.23.0.1:33816 on port 1883.
+1744112533: New client connected from 172.23.0.1:33816 as mqtt-explorer-d397811b (p2, c1, k60).
+1744112983: Client auto-4F1E574F-24EC-5B98-0781-69CFD63BD9CA has exceeded timeout, disconnecting.
+1744113012: Client auto-4814951B-EBD3-4446-537B-D40E77D16EA4 closed its connection.
+1744113012: Client auto-7CC6EB45-6C55-B70C-40B9-1ADF5CB1D68F closed its connection.
+1744113012: mosquitto version 2.0.21 terminating
+1744113012: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744113012: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744113012: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744113029: mosquitto version 2.0.21 starting
+1744113029: Config loaded from /mosquitto/config/mosquitto.conf.
+1744113029: Opening ipv4 listen socket on port 1883.
+1744113029: Opening ipv6 listen socket on port 1883.
+1744113029: mosquitto version 2.0.21 running
+1744113030: New connection from 172.23.0.3:46413 on port 1883.
+1744113030: New connection from 172.23.0.3:35437 on port 1883.
+1744113030: New client connected from 172.23.0.3:46413 as auto-7C927799-92C6-14CE-3BBB-C2D8CBD688A2 (p2, c1, k60).
+1744113030: New client connected from 172.23.0.3:35437 as auto-387D4B8D-EC05-B54B-9627-7ECBB0C792D9 (p2, c1, k60).
+1744113031: New connection from 172.23.0.4:33447 on port 1883.
+1744113031: New client connected from 172.23.0.4:33447 as auto-90D5EA50-5922-5BBD-73C3-508CC8646840 (p2, c1, k60).
+1744113031: New connection from 172.23.0.1:44788 on port 1883.
+1744113031: New client connected from 172.23.0.1:44788 as mqtt-explorer-d397811b (p2, c1, k60).
+1744113250: Client auto-90D5EA50-5922-5BBD-73C3-508CC8646840 closed its connection.
+1744113260: Client auto-387D4B8D-EC05-B54B-9627-7ECBB0C792D9 closed its connection.
+1744113260: Client auto-7C927799-92C6-14CE-3BBB-C2D8CBD688A2 closed its connection.
+1744113260: mosquitto version 2.0.21 terminating
+1744113260: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744113260: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744113260: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744114452: mosquitto version 2.0.21 starting
+1744114452: Config loaded from /mosquitto/config/mosquitto.conf.
+1744114452: Opening ipv4 listen socket on port 1883.
+1744114452: Opening ipv6 listen socket on port 1883.
+1744114452: mosquitto version 2.0.21 running
+1744114453: New connection from 172.23.0.3:37209 on port 1883.
+1744114453: New client connected from 172.23.0.3:37209 as auto-92A05C4D-368A-046C-B44D-C4E642CFAD21 (p2, c1, k60).
+1744114453: New connection from 172.23.0.3:50467 on port 1883.
+1744114453: New client connected from 172.23.0.3:50467 as auto-E4600080-9B42-14FC-C81D-21BA3042D50B (p2, c1, k60).
+1744114455: New connection from 172.23.0.1:38264 on port 1883.
+1744114455: New client connected from 172.23.0.1:38264 as mqtt-explorer-d397811b (p2, c1, k60).
+1744114456: New connection from 172.23.0.4:58265 on port 1883.
+1744114456: New client connected from 172.23.0.4:58265 as auto-ACE4C4A7-F5FD-E654-E4B5-5E2BDD7A1FCB (p2, c1, k60).
+1744114678: Client auto-ACE4C4A7-F5FD-E654-E4B5-5E2BDD7A1FCB closed its connection.
+1744114688: Client auto-E4600080-9B42-14FC-C81D-21BA3042D50B closed its connection.
+1744114688: Client auto-92A05C4D-368A-046C-B44D-C4E642CFAD21 closed its connection.
+1744114688: mosquitto version 2.0.21 terminating
+1744114688: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744114688: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744114688: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744114696: mosquitto version 2.0.21 starting
+1744114696: Config loaded from /mosquitto/config/mosquitto.conf.
+1744114696: Opening ipv4 listen socket on port 1883.
+1744114696: Opening ipv6 listen socket on port 1883.
+1744114696: mosquitto version 2.0.21 running
+1744114697: New connection from 172.23.0.3:55265 on port 1883.
+1744114697: New client connected from 172.23.0.3:55265 as auto-6ADEAF68-3E2C-69D8-4C1C-A366A8EF0021 (p2, c1, k60).
+1744114697: New connection from 172.23.0.3:43423 on port 1883.
+1744114697: New client connected from 172.23.0.3:43423 as auto-B34D2C88-BC22-7CE1-DBA1-5C1F04A142B9 (p2, c1, k60).
+1744114698: New connection from 172.23.0.4:49849 on port 1883.
+1744114698: New client connected from 172.23.0.4:49849 as auto-2F4F290C-2B78-11EB-A5F6-013B2F02CA84 (p2, c1, k60).
+1744114698: New connection from 172.23.0.1:38838 on port 1883.
+1744114698: New client connected from 172.23.0.1:38838 as mqtt-explorer-d397811b (p2, c1, k60).
+1744114714: Client auto-2F4F290C-2B78-11EB-A5F6-013B2F02CA84 closed its connection.
+1744114724: Client auto-B34D2C88-BC22-7CE1-DBA1-5C1F04A142B9 closed its connection.
+1744114724: Client auto-6ADEAF68-3E2C-69D8-4C1C-A366A8EF0021 closed its connection.
+1744114724: mosquitto version 2.0.21 terminating
+1744114724: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744114724: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744114724: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744114795: mosquitto version 2.0.21 starting
+1744114795: Config loaded from /mosquitto/config/mosquitto.conf.
+1744114795: Opening ipv4 listen socket on port 1883.
+1744114795: Opening ipv6 listen socket on port 1883.
+1744114795: mosquitto version 2.0.21 running
+1744114796: New connection from 172.23.0.3:50223 on port 1883.
+1744114796: New client connected from 172.23.0.3:50223 as auto-D024559A-4635-E10E-8C1F-812F7B9624A0 (p2, c1, k60).
+1744114796: New connection from 172.23.0.3:56099 on port 1883.
+1744114796: New client connected from 172.23.0.3:56099 as auto-64EFDCAE-1A29-46E7-C888-8905C6449DBE (p2, c1, k60).
+1744114797: New connection from 172.23.0.4:48739 on port 1883.
+1744114797: New client connected from 172.23.0.4:48739 as auto-7F94AC9C-51D3-75AC-4E3C-3AB81BD04C87 (p2, c1, k60).
+1744114797: New connection from 172.23.0.1:58252 on port 1883.
+1744114797: New client connected from 172.23.0.1:58252 as mqtt-explorer-d397811b (p2, c1, k60).
+1744114867: Client auto-7F94AC9C-51D3-75AC-4E3C-3AB81BD04C87 closed its connection.
+1744114876: Client auto-64EFDCAE-1A29-46E7-C888-8905C6449DBE closed its connection.
+1744114876: Client auto-D024559A-4635-E10E-8C1F-812F7B9624A0 closed its connection.
+1744114876: mosquitto version 2.0.21 terminating
+1744114876: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744114876: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744114876: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
+1744119307: mosquitto version 2.0.21 starting
+1744119307: Config loaded from /mosquitto/config/mosquitto.conf.
+1744119307: Opening ipv4 listen socket on port 1883.
+1744119307: Opening ipv6 listen socket on port 1883.
+1744119307: mosquitto version 2.0.21 running
+1744119308: New connection from 172.23.0.3:60635 on port 1883.
+1744119308: New client connected from 172.23.0.3:60635 as auto-516DE7BC-CC59-3110-4BD6-A70DCE272B1D (p2, c1, k60).
+1744119308: New connection from 172.23.0.3:37281 on port 1883.
+1744119308: New client connected from 172.23.0.3:37281 as auto-400620AB-C456-C7D9-63FC-0DFCB0CD4703 (p2, c1, k60).
+1744119309: New connection from 172.23.0.4:53425 on port 1883.
+1744119309: New client connected from 172.23.0.4:53425 as auto-6110C342-9FD9-E285-1423-39061AC1783A (p2, c1, k60).
+1744119309: New connection from 172.23.0.1:43244 on port 1883.
+1744119309: New client connected from 172.23.0.1:43244 as mqtt-explorer-d397811b (p2, c1, k60).
+1744119541: Client auto-6110C342-9FD9-E285-1423-39061AC1783A closed its connection.
+1744119551: Client auto-400620AB-C456-C7D9-63FC-0DFCB0CD4703 closed its connection.
+1744119551: Client auto-516DE7BC-CC59-3110-4BD6-A70DCE272B1D closed its connection.
+1744119551: mosquitto version 2.0.21 terminating
+1744119551: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1744119551: Warning: File /mosquitto/data//mosquitto.db.new owner is not mosquitto. Future versions will refuse to load this file.To fix this, use `chown mosquitto /mosquitto/data//mosquitto.db.new`.
+1744119551: Warning: File /mosquitto/data//mosquitto.db.new group is not mosquitto. Future versions will refuse to load this file.
